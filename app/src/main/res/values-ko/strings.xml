@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">큼온 급식 </string>
+    <string name="breakfast">아침 </string>
+    <string name="dinner">저녁 </string>
+    <string name="lunch">점심 </string>
+    <string name="refresh">새로고침 </string>
+    <string name="sbreakfast">(아침)</string>
+    <string name="sdinner">(저녁)</string>
+    <string name="slunch">(점심)</string>
+</resources>
